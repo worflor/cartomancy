@@ -1,8 +1,6 @@
 # Cartomancy
 
 > *Magic in retrograde.*
->
-> A tarot mod where the sky has opinions: 78 cards, a real sky clock, and spells that care what night it is.
 
 <table>
 <tr><td><img src="media/promo-01-reading.webp" alt="A reader at a Reader's Table at sunset, three cards laid, inside a chalk ring with four lit candles"></td><td><img src="media/promo-07-moon-garden.webp" alt="Dusk at a full Moon in the Moon Garden: clockwork jacks at the offering plate, a pond and a Stone Lantern"></td></tr>
