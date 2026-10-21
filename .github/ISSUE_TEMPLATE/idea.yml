@@ -1,0 +1,33 @@
+name: Idea or suggestion
+description: Something you would like the mod to do, or do differently.
+title: "[Idea] "
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Ideas are welcome. A few things help an idea land: Cartomancy has no mana, no research points, no currency and no daily chores, and it prefers a system that is useful and tied into the ones around it over a gimmick. The world explains itself and the text is short. An idea that fits that is the easiest to say yes to, but say it anyway if it does not.
+  - type: textarea
+    id: idea
+    attributes:
+      label: What would you like to see?
+      description: Describe it in a few sentences.
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What problem does it solve in the game you actually play?
+      description: Tell us about the moment it would help, in survival, with friends, or in a build.
+    validations:
+      required: true
+  - type: textarea
+    id: touches
+    attributes:
+      label: What does it touch?
+      description: The sky, a card, the table, the garden, the jacks, another mod. Anything that already exists that it should build on.
+  - type: textarea
+    id: extra
+    attributes:
+      label: Anything else
+      description: Pictures, links, other mods that do something similar.

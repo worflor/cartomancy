@@ -1,0 +1,21 @@
+name: Question
+description: Something you want to know about the mod.
+title: "[Question] "
+labels: ["question"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Check the [FAQ](https://github.com/worflor/cartomancy/blob/main/docs/faq.md) if your question might already be answered.
+        Cartomancy is still in development, so "not built yet" or "not decided" might be the answer.
+  - type: textarea
+    id: question
+    attributes:
+      label: Your question
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Context
+      description: If it is about a mod pack, a server or another mod, say which. If it is about how something works, say what you tried.

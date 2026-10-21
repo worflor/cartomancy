@@ -1,0 +1,86 @@
+name: Bug report
+description: Something broke, looked wrong, or did not do what the card said.
+title: "[Bug] "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for reporting this. Cartomancy is pre-release, so bugs are expected and welcome.
+        The more of this form you can fill in, the faster it can be fixed. Please search the open issues first in case it has already been reported.
+  - type: input
+    id: minecraft
+    attributes:
+      label: Minecraft version
+      description: For example 1.21.1.
+      placeholder: "1.21.1"
+    validations:
+      required: true
+  - type: dropdown
+    id: loader
+    attributes:
+      label: Loader
+      options:
+        - Fabric
+        - Forge
+        - NeoForge
+        - Other (say which below)
+    validations:
+      required: true
+  - type: input
+    id: mod_version
+    attributes:
+      label: Cartomancy version
+      description: The version in the file name, or in the game's mod list.
+      placeholder: "0.1.0"
+    validations:
+      required: true
+  - type: textarea
+    id: other_mods
+    attributes:
+      label: Other mods, and shader or resource packs
+      description: A list is fine. If you are not sure, say "none" or "a big pack" and link it.
+      placeholder: "Sodium, Iris, ..."
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: What did you do, in order? Say whether it was single-player or a server.
+      placeholder: |
+        1.
+        2.
+        3.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: What you expected to happen
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: What happened instead
+    validations:
+      required: true
+  - type: textarea
+    id: sky
+    attributes:
+      label: The sky, the card or the place, if it matters
+      description: |
+        Many things in Cartomancy depend on the sky. If your bug involves a card, a table, a plate, a jack or a spell, it helps to say which one, in which deck and finish, what the Because line said, and which day, House and Moon phase it was. The Wall Almanac, an Armillary Sphere or the Astrolabe will tell you.
+  - type: textarea
+    id: logs
+    attributes:
+      label: Logs
+      description: |
+        Paste the relevant part of latest.log (from the game's logs folder), or the crash report. For a long log, upload it to a paste site and link it.
+      render: text
+  - type: textarea
+    id: extra
+    attributes:
+      label: Screenshots, or anything else
+      description: You can drag pictures straight into this box.
