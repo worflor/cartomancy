@@ -2,6 +2,8 @@
 
 > *Magic in retrograde.*
 
+[![X: dev updates & random stuff](https://img.shields.io/badge/𝕏-dev%20updates%20%26%20random%20stuff-171717?style=flat&labelColor=000000)](https://x.com/altwof) [@altwof](https://x.com/altwof)
+
 <table>
 <tr><td><img src="media/promo-01-reading.webp" alt="A reader at a Reader's Table at sunset, three cards laid, inside a chalk ring with four lit candles"></td><td><img src="media/promo-07-moon-garden.webp" alt="Dusk at a full Moon in the Moon Garden: clockwork jacks at the offering plate, a pond and a Stone Lantern"></td></tr>
 <tr><td><em>A reading at sunset: three cards laid on the Reader's Table, inside a chalk ring with its four candles lit.</em></td><td><em>Dusk at a full Moon in the Moon Garden. Jacks hold the goods up at the offering plate, and the Stone Lantern keeps watch by the pond.</em></td></tr>
