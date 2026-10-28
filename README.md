@@ -17,6 +17,8 @@ It's a seriously unserious scholarly craft of reading the world itself: the sky 
 
 *Still in development. Not released yet.*
 
+Want to follow along? **Star** this repository to keep it handy, or **Watch** it for updates (choose **Custom → Releases** for build notifications).
+
 ## What it is
 
 - **A sky you can read.** The Almanac shows the 96-day Great Year ahead, so an eclipse or a favourable House is something you can prepare for. Everyone on the server shares the same sky.
