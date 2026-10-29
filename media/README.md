@@ -1,11 +1,11 @@
 # Gallery
 
-Scenes from the game while it's still being built.
+Scenes and short clips from the game while it's still being built.
 
 ## In the world
 
-![A reading at sunset: three cards laid on the Reader's Table, inside a chalk ring with its four candles lit](promo-01-reading.webp)
-*A reading at sunset: three cards laid on the Reader's Table, inside a chalk ring with its four candles lit.*
+![The Star's paper theatre unfolding over three Reader's Tables by candlelight](promo-reading-candlelight.webp)
+*The Star's picture unfolds into a little paper theatre over the cloth.*
 
 ![Dusk at a full Moon in the Moon Garden. Jacks hold the goods up at the offering plate, and the Stone Lantern keeps watch by the pond](promo-07-moon-garden.webp)
 *Dusk at a full Moon in the Moon Garden. Jacks hold the goods up at the offering plate, and the Stone Lantern keeps watch by the pond.*
@@ -13,8 +13,8 @@ Scenes from the game while it's still being built.
 ![The Astrolabe raised at a cat: its birth chart drawn over the world, and a line of temperament](promo-02-astrolabe.webp)
 *The Astrolabe raised at a cat: its birth chart drawn over the world, and a line of temperament.*
 
-![The Eight of Wands, cast from the hand: a volley of flame comes down on three husks](promo-06-spell.webp)
-*The Eight of Wands, cast from the hand: a volley of flame comes down on three husks.*
+![A reader casting the Sun at dusk, the Ram's stars kindling above the crops](promo-cast-dusk.webp)
+*The Sun answers the sky and brings on the crops.*
 
 ![The jacks' yard: one reaps the wheat, one minds the furnace, one waits at the anvil, and chalk marks show them where things go](promo-04-workshop.webp)
 *The jacks' yard: one reaps the wheat, one minds the furnace, one waits at the anvil, and chalk marks show them where things go.*
@@ -52,14 +52,20 @@ Scenes from the game while it's still being built.
 ![One Sun card under six readings of the sky: Exalted, Favoured, Ashen, Fallen, Retrograde and half spent](card-resonance.webp)
 *The same Sun, from Exalted gold to Fallen embers, with Favoured, Ashen, Retrograde and half-Spent views beside them.*
 
-![The Sun in all twelve finishes, three papers by four leaf states](card-finishes.webp)
-*The Sun on three papers, each bare, gilded, silvered and warped: twelve finishes.*
+![The Sun on three papers, shown bare, gilded, silvered and warped](card-finishes.webp)
+*Three papers, shown bare, gilded, silvered and warped.*
 
 ![Three cards from three decks in the first-person hand: the base Two of Cups, a print of A Hundred Moons and a Sola Busca card](card-held-decks.webp)
 *Three cards from three decks in the first-person hand: the base Two of Cups, a print of A Hundred Moons and a Sola Busca card.*
 
 ![All seventy-eight cards, one to an item frame](card-wall.webp)
 *All seventy-eight cards, one to an item frame.*
+
+![Cards selected for casting from a vanilla bundle](bundle-casting.webp)
+*A makeshift Folio, with room for other things.*
+
+![Two Sun cards in frames, their living ink following different paths](home-suns-differ.webp)
+*Two Suns, each remembering a different day.*
 
 
 ## The table
@@ -69,6 +75,12 @@ Scenes from the game while it's still being built.
 
 ![A Reader's Table in a closed chalk ring, its four candles lit](chalk-ring-ready.webp)
 *A Reader's Table in a closed chalk ring, its four candles lit.*
+
+![The Strength paper theatre folding into its card as the reading begins](tableau-fold.webp)
+*The picture folds away at the knock.*
+
+![Three, Six and Nine counted in stones on neighbouring sand trays](tableau-numbers-hourglass.webp)
+*The Numbers keep a counting tray of their own.*
 
 
 ## The Moon Garden
@@ -100,6 +112,12 @@ Scenes from the game while it's still being built.
 ![Four moods of a Star Guest: Curious, Teaching, Delighted and Offended](guest-moods-a.webp)
 *Four moods of a Star Guest: Curious, Teaching, Delighted and Offended.*
 
+![A star arriving at an Offering Plate and unfolding into a paper guest](promo-guest-unfolds.webp)
+*A visitor unfolds beside the Stone Lantern.*
+
+![The household taking its bows after Romello and Jonliette](playhouse-curtain-call.webp)
+*The company takes a bow. The tables are yours again.*
+
 ![A row of Star Furin under an eave, glass in different dyes](furin-row.webp)
 *Star Furin under the eave, with a different colour of glass for each bell.*
 
@@ -125,13 +143,25 @@ Scenes from the game while it's still being built.
 *The plan complete: a stone house at golden hour, with its supply chests beside it.*
 
 
+## Stormglass
+
+![A real lightning strike landing on a prepared rod above a sand bed](promo-lightning-on-the-rod.webp)
+*The figure is ready; the storm answers.*
+
+![Columns of Stormglass in the twelve Houses' colours](promo-stormglass-houses.webp)
+*Lightning glass in the colours of the Houses.*
+
+
 ## The Snowglobe
 
 ![The inside of a sanctum at the Astral Ward setting, gold lattice glass all round](snowglobe-sanctum.webp)
 *The inside of a sanctum at the Astral Ward setting, gold lattice glass all round.*
 
-![A whole globe beside a shattered one](snowglobe-shattered.webp)
-*A whole globe beside a shattered one.*
+![A Snowglobe on a Reader's Table with its keeper's fate thread above the glass](promo-snowglobe-thread.webp)
+*The keeper's [Vixen fate thread](https://github.com/worflor/vixen): a little of yesterday, a little of tomorrow, and the bead where you are.*
+
+![Three shattered Snowglobes, each with a different pattern of cracks](snowglobe-breaks-close.webp)
+*Each break leaves its own cracks. The home stays sealed inside.*
 
 
 ## The Fool's journey
@@ -148,8 +178,8 @@ Scenes from the game while it's still being built.
 
 ## Music disc
 
-***In Good Company*** is the graduation music disc. [Rendition 1](music/in-good-company.ogg) is up for feedback and may change.
+***In Good Company***, by **woflo**, is the graduation music disc. [Listen to the disc](music/in-good-company.ogg); feedback is welcome.
 
 ## Credits and rights
 
-The cards in these pictures are public-domain art: Pamela Colman Smith's 1909 Rider-Waite-Smith illustrations, the Sola Busca deck of 1491, and Yoshitoshi's *One Hundred Aspects of the Moon*. The screenshots, the music and the words are all rights reserved (see the [licence](../LICENSE)).
+The historical card illustrations in these pictures are public domain: Pamela Colman Smith's 1909 Rider-Waite-Smith, the Sola Busca deck of 1491, and Yoshitoshi's *One Hundred Aspects of the Moon*. The Numbers uses original artwork. Other artwork, the screenshots, the music and the words are all rights reserved (see the [licence](../LICENSE)).

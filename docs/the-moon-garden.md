@@ -54,7 +54,7 @@ The **Star Guests** call themselves the **Quire**. A guest is folded paper about
 
 *Two leaves, four, eight, twelve.*
 
-Their six lessons connect things already around you: **Pet, Tool, Table, Ground, Sky and Friend**. One reads your animal's chart with a paper Astrolabe. Another shows a card against your tool. A teacher beside three tables waits for you to complete an actual spread. Watching alone does not do the work for you.
+Their six lessons connect things already around you: **Pet, Tool, Table, Ground, Sky and Friend**. One reads your animal's chart with a paper Astrolabe. Another shows a card against your tool. A teacher beside three tables waits for you to complete a spread.
 
 You can discover these practices yourself; the Quire recognises learning by doing. For the Friend lesson, a villager you have traded with or the Astronomer can stand in when you play alone.
 
@@ -77,7 +77,13 @@ On an Offering Plate set to **Call**, a card can fold into a new paper companion
 | **Zanni** | Carries the lot. |
 | **Scaramuccia** | Fainted. Is well. |
 
-You can carry, dress or offend a guest. When they're free, they may play with one another, borrow colour from a candle, pass it to a friend or wash it off in water. None of that makes them better at their jobs.
+You can carry, dress or offend a guest. When they're free, they may play with one another, borrow colour from a candle, pass it to a friend or wash it off in water.
+
+Leave three or more joined Reader's Tables empty in a ready garden with at least two willing guests nearby and, on an occasional night, the household puts on a play. Lanterns warm into footlights, the guests take their places and *Romello and Jonliette* begins. They speak with paper placards and take the parts their temperaments suit. Laying a card on the table brings the performance to its bows.
+
+<img src="../media/playhouse-curtain-call.webp" width="560" alt="The household taking its bows after Romello and Jonliette">
+
+*The company takes a bow. The tables are yours again.*
 
 ## Work at home
 

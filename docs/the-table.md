@@ -12,6 +12,12 @@ A single card makes a **Quick Cut**. Three make the **Hourglass**, five the **Cr
 
 *The cloth gives each card its place.*
 
+A laid card also unfolds its picture into a little **paper theatre** over the cloth. Neighbouring stages meet across a run of tables. A guest at leisure may come to watch or fold into one of the figures; a guest called from that card can take its lead when the card has come home.
+
+<img src="../media/tableau-fold.webp" width="560" alt="A card's paper theatre folding back into the cloth at the knock">
+
+*The picture folds away when the working begins.*
+
 ## Compose a spell
 
 Cards laid by hand make a spell. In the Hourglass, the first is the **Reagent**, whose element meets the middle card's. The middle is the **Verb**, the working itself. The last is the **Vector**, whose rank decides how it reaches the world: perhaps a pair, a projected working or something delayed until the next Watch.
@@ -33,6 +39,8 @@ Some arrangements are recognised by name as **compounds** or **concordances**. T
 ## Deal a fortune
 
 A fortune begins differently: use your **Folio** on the table and it deals cards face down. You do not choose them. A friend can cut and become the querent, the person being read. Alone, you can read for yourself.
+
+The household can deal too. Crouch-use the Commonplace on a table to invite willing Star Guests nearby; each folds into one card, and unfolds again when the reading is done.
 
 Each suit asks its own questions.
 

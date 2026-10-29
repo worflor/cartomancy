@@ -64,6 +64,22 @@ A **plan** gives a new building a similar outline and material bill. The Star Gu
 
 *The outline paid for in stone.*
 
+## Glass that remembers the storm
+
+**Stormglass** begins with a lightning rod on sand. Draw the House's constellation with chalk and answer its stars with the coloured fittings it asks for. The figure shows what is missing as you prepare it. When the sky agrees and a real bolt lands, branching glass runs into the sand beneath the rod.
+
+Bring a brush. Clearing the sand uncovers the formation where it grew; breaking a buried piece loses it. The bare glass is hot at first, and water quenches it. Each House leaves its own colour and inclusions, while Mixed glass keeps the weather's cloudy movement.
+
+<img src="../media/promo-lightning-on-the-rod.webp" width="560" alt="A real lightning strike landing on a prepared rod above a sand bed">
+
+*The figure is ready; the storm answers.*
+
+Placed glass joins into branching screens and columns, crystallising where each piece is set. Cool shards become [card finishes](the-cards.md#paper-with-a-history). Mixed glass can hold a lightning strike's fading afterglow through a connected build.
+
+<img src="../media/promo-stormglass-houses.webp" width="560" alt="Columns of Stormglass in the twelve Houses' colours">
+
+*Twelve Houses, twelve colours in the glass.*
+
 ## An exception in the loft
 
 Some Observatory jacks are **Runaways**. They move while nobody looks, and a strike takes half your health. The Astrolabe warns you. Keep your eye on one and use a pickaxe; a friend who watches while you swing is particularly good company. Broken, it leaves parts and a jack that can finally have a keeper.

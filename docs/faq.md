@@ -4,17 +4,23 @@
 
 Not yet. Cartomancy is still in development, with no public release.
 
+## Which Minecraft versions and loaders?
+
+The target is 1.20.1 through 26.3 across Fabric, Forge and NeoForge. Current builds cover Fabric 1.21 and 1.21.1; other ports are in progress.
+
 ## Do I need to know tarot or astrology?
 
 No. Start with the picture: the Fool leaps, the Hanged Man suspends, the Tower falls. A card shows its favour, and the **Because** explains what the sky and your surroundings contributed. The **Commonplace** fills with what you learn as you play.
 
 ## Where should I begin?
 
-A village cartographer sells a Battered Fool for an emerald. You can also fish, explore or make a blank from paper and an ink sac. Hold a blank with the Astrolabe and read a place or creature to print a Minor. Your first card doesn't need to be the Fool.
+A village cartographer sells a Battered Fool for an emerald. You can also fish, explore or make a blank from paper and an ink sac. Hold a blank with the Astrolabe and read a place or creature to print a Minor. A vanilla bundle can hold your first casting kit. Your first card doesn't need to be the Fool.
 
 ## Will casting use up my favourite card?
 
 No. Casting never uses up a card; its ink just needs time to dry. You can keep extra copies for spells and other workings, or deliberately use one up in soup or tinctures. The cauldron asks again before taking a protected find, such as a special-paper card or your last copy.
+
+Held or dropped cards fade in rain and run under still water. Stored cards stay dry; honeycomb wax protects exposed ones for a while.
 
 ## Why does the same card behave differently today?
 
@@ -30,7 +36,7 @@ Cards you lay by hand compose a spell. Cards dealt from your Folio tell a fortun
 
 ## Does it tell my real fortune?
 
-It reads your Minecraft world. A Sword can point towards an unvisited structure; a Cup can report the weather's current schedule. It says when the reading was true and distinguishes what is confirmed from what is predicted or beyond its sight. It makes no claims about your life outside the game.
+It reads your Minecraft world. A Sword can point towards an unvisited structure; a Cup can report the weather's current schedule. The reading dates its answers and says what it can see.
 
 ## Can I play alone?
 
@@ -38,7 +44,7 @@ Yes. You can read for yourself and play Card-Jitsu against the Astronomer or a v
 
 ## What can I do with friends?
 
-Read for someone who cuts the deck and give them a Cartouche of what was told. Share soup or ladle a pot of Starlight Chowder. Play Card-Jitsu, open the sanctum's dial to company, or pair Mercury jacks to post parcels between bases. Everyone shares the sky; each reader brings their own cards and history to it.
+Read for someone who cuts the deck and give them a Cartouche of what was told, or copy a useful method for them to try. Share soup or ladle a pot of Starlight Chowder. Play Card-Jitsu, open the sanctum's dial to company, or pair Mercury jacks to post parcels between bases. Everyone shares the sky; each reader brings their own cards and history to it.
 
 ## Does missing a night set me back?
 
@@ -54,7 +60,7 @@ A globe broken without Silk Touch shatters and seals its sanctum. The contents s
 
 ## What is the graduation music disc?
 
-***In Good Company*** is the music disc the Quire gives you at graduation. The [included recording (Rendition 1)](../media/music/in-good-company.ogg) is still open to feedback.
+***In Good Company***, by **woflo**, is the music disc the Quire gives you at graduation. [Listen to the disc](../media/music/in-good-company.ogg); feedback is welcome.
 
 ## What happens when I collect all seventy-eight?
 

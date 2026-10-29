@@ -26,7 +26,7 @@ Take a Two of Cups under a waning Moon, in the Fire House of the Ram, on neutral
 
 Mercury has one Retrograde window in each Great Year. Affected cards wear **℞**, and their foil sweeps backwards; the planet's bead reverses on the Armillary. Retrograde changes how those cards hear their planetary terms. The mark is worth reading before you cast.
 
-There are two eclipses in a Great Year, named ahead in the Almanac. During an eclipse the Sun and Moon cards are Exalted. On the year's last day, the **Great Conjunction**, negative favour terms are waived. An eclipse is a good time to take the Sun and Moon out of the Folio; a Great Conjunction may make you rethink the rest of your rack.
+There are two eclipses in a Great Year, named ahead in the Almanac. An eclipse can bring the Sun and Moon cards to Exalted. On the year's last day, the **Great Conjunction**, negative favour terms are waived. An eclipse is a good time to take the Sun and Moon out of the Folio; a Great Conjunction may make you rethink the rest of your rack.
 
 ## Brass, paper and light
 

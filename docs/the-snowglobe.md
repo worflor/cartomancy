@@ -14,13 +14,17 @@ Before an expedition, scry a Cup beside the river, find a favourable date, then 
 
 ## Your thread
 
-With no card in the other hand, the glass shows the coming House and tomorrow's card of the day. It also lets you follow your **thread**: fortune as a line through your own lived time.
+With no card in the other hand, the glass shows the coming House and tomorrow's card of the day. It also lets you follow your **thread**: fortune as a line through your own lived time, drawn by [Vixen](https://github.com/worflor/vixen).
 
 Your present place on it is your **tide**, named **Ebb, Low, Slack, High** or **Flood**. It leans the quality of finds and other fortunate outcomes. It does not decide whether a cast reverses; the card's Cut has that job. Good deeds do not fill a luck meter.
 
-A placed globe wears its keeper's thread above the glass: the last nine days solid, the next three faint, and a bright bead at the present. Indigo deepens at Ebb; the line runs through teal and moon-silver towards gold at Flood. The future is visible for a little way, not for ever.
+A placed globe wears its keeper's thread above the glass: the last nine days solid, the next three faint, and a bright bead at the present. Indigo deepens at Ebb; the line runs through teal and moon-silver towards gold at Flood.
 
 The shared sky follows world time; your thread follows the time you've actually played. You and a friend can share an eclipse without being at the same point in your fortunes.
+
+<img src="../media/promo-snowglobe-thread.webp" width="560" alt="A Snowglobe on a Reader's Table with its keeper's fate thread above the glass">
+
+*A little of yesterday, a little of tomorrow, and the bead where you are.*
 
 ## Stepping in
 
@@ -48,8 +52,8 @@ The placed globe belongs to its keeper. Carrying it safely takes Silk Touch and 
 
 Breaking it without Silk Touch **shatters** it. The cracked globe remains, the sanctum seals and its contents stay where they are. It does not pour a household onto the floor. Pick up the shattered globe with Silk Touch and use it on an Orrery to restore the home within.
 
-<img src="../media/snowglobe-shattered.webp" width="420" alt="A whole Celestial Snowglobe beside a shattered one">
+<img src="../media/snowglobe-breaks-close.webp" width="560" alt="Three shattered Snowglobes, each with a different pattern of cracks">
 
-*Cracked glass; a sealed home.*
+*Each break leaves its own cracks. The home stays sealed inside.*
 
 Back outside, there are still cards to find. [Follow the Fool's journey](the-fools-journey.md).
