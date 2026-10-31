@@ -44,7 +44,7 @@ Scenes and short clips from the game while it's still being built.
 *A Wall Almanac open on the Ram's leaf, with today's row picked out in gilt.*
 
 ![The Astrolabe raised at a cat, its birth chart drawn over the world](astrolabe-reading.webp)
-*The Astrolabe raised at a cat, its birth chart drawn over the world.*
+*The Astrolabe raised at a cat, its birth chart drawn over the world.* [Watch the reading](astrolabe-reading.mp4).
 
 
 ## The cards
